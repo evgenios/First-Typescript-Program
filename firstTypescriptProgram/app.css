@@ -1,0 +1,14 @@
+﻿body {
+    font-family: Georgia, sans-serif;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+    padding: 20px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 7px;
+}
